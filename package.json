@@ -7,7 +7,7 @@
   "author": "ki",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon --exec babel-node index.js"
+    "start": "nodemon --exec babel-node src/index.js"
   },
   "dependencies": {
     "axios": "^0.23.0",
